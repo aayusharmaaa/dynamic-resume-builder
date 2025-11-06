@@ -5,6 +5,9 @@ ResumeForge is a dynamic resume builder built with React, TypeScript, Tailwind C
 
 It provides a real-time editing interface with a clean, modern design and PDF export functionality.
 
+<img width="1866" height="835" alt="image" src="https://github.com/user-attachments/assets/c84756cb-1ede-4218-83c2-073af815efcf" />
+
+
 ##  Features
 *  Instant Preview: See live changes as you update your information.
 *  Dynamic Input System: Add and edit sections like summary, education, and experience.
