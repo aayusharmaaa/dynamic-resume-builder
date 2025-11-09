@@ -21,7 +21,7 @@ This project is built with:
 *   Vite  – For fast builds and lightning-speed development.
 *   React + TypeScript  – For a scalable, type-safe architecture.
 *   Tailwind CSS  – For efficient and responsive styling.
-*  🧱shadcn-ui  – For accessible, modern UI components.
+*   shadcn-ui  – For accessible, modern UI components.
 
 ## 🧰 Getting Started
 
